@@ -42,10 +42,9 @@ The line chart tracks trends over time for Total Orders, Total Revenue, and Tota
 These parameters are used in the dashboard to provide dynamic visualizations of Amazon's sales data, allowing for a deeper understanding of sales performance and trends over time.
 
 ## Dashboard
-Below is a screenshot of the Power BI dashboard that provides an interactive view of the sales data based on the three parameters:
-
- ![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/ba72fd16-1c2a-47a9-92fa-aa88d7c8d39e)
+Below is a screenshot of the Power BI dashboard that provides an interactive view of the sales data based on the three parameters: 
 
 
+![image](https://github.com/user-attachments/assets/c7118e2b-7988-4dd2-93a7-76176df5740c)
 
 
