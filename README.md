@@ -14,10 +14,10 @@ The data used in this project is sourced from [Amazon Sales Database]("Amazon Sa
 This project uses Power BI to analyze Amazon sales data. The goal is to generate insights on Amazon's sales performance using key metrics like total revenue, total orders, and total quantity.
 
 ## Files
-- `Amazon Sale Report.csv`: The raw dataset containing Amazon sales data.
-- `Amazon_Sale_Report.xlsx`: The cleaned and transformed dataset used in the Power BI dashboard.
-- `AmazonSalesDashboard.pbix`: The Power BI project file that contains the dashboard and visualizations.
-- `README.md`: Project description and instructions.
+- ``: The raw dataset containing Amazon sales data.
+- `https://github.com/MJaiBhavani/amazon_sales/blob/main/Amazon%20Sale%20Report_excelworkbook.xls`: The cleaned and transformed dataset used in the Power BI dashboard.
+- ``: The Power BI project file that contains the dashboard and visualizations.
+
 
 ## Key Insights from the Dashboard:
 The Power BI dashboard is built using three main parameters:
@@ -27,10 +27,11 @@ The Power BI dashboard is built using three main parameters:
 
 These parameters are used in the dashboard to provide dynamic visualizations of Amazon's sales data, allowing for a deeper understanding of sales performance and trends over time.
 
-## Dashboard Screenshot
+## Dashboard
 Below is a screenshot of the Power BI dashboard that provides an interactive view of the sales data based on the three parameters:
 
-![Dashboard Screenshot](./dashboard_screenshot.png)
+ ![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/ba72fd16-1c2a-47a9-92fa-aa88d7c8d39e)
+
 
 
 
